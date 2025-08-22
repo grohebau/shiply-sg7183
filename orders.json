@@ -1,6 +1,6 @@
 {
   "G88172": {
-    "status": "Warten auf Zahlung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Silvio Teifel, Am Brink 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Christian Diekmann, Im Velle 11, 32457 Porta Westfalica, Deutschland",
@@ -28,20 +28,20 @@
     "orderDate": "18-08-2025",
     "deliveryDate": "25-08-2025, 15:30 Uhr",
     "pickup": {
+      "street": "Lagerstrasse 11",
+      "postal_code": "30453",
+      "city": "Hannover",
+      "country": "Deutschland",
+      "lat": "52.367968388351436",
+      "lng": "9.68410376915042"
+    },
+    "delivery": {
       "street": "",
       "postal_code": "",
       "city": "",
       "country": "",
       "lat": "",
       "lng": ""
-    },
-    "delivery": {
-      "street": "Lagerstrasse 11",
-      "postal_code": "30453",
-      "city": "Hannover ",
-      "country": "Deutschland",
-      "lat": "52.367968388351436",
-      "lng": "9.68410376915042"
     }
   }
 }
